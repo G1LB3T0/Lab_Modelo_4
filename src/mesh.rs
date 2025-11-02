@@ -66,7 +66,7 @@ impl Mesh {
         (sx.round() as i32, sy.round() as i32)
     }
 
-    // Variante con multiplicador de escala en vista (para ajustar tamaño con teclado)
+    // Variante con multiplicador de escala en vista
     #[inline]
     pub fn to_screen_scaled(&self, v: glm::Vec3, width: usize, height: usize, scale_mul: f32) -> (i32, i32) {
         let hw = (width as f32) * 0.5;
