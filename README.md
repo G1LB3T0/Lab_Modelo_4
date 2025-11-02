@@ -2,4 +2,4 @@
 
 Resultado del modelo:
 
-![OVNI render](ovni.png)
+![OVNI render](Ovni.png)
