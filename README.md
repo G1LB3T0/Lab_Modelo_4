@@ -1,4 +1,4 @@
-# Proyecto – Software Renderer
+# Proyecto – Model Renderer
 
 Resultado del modelo:
 
